@@ -1,4 +1,5 @@
 USE db_sql_tutorial
+GO
 
 -- Retrive all data from costumers
 
